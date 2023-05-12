@@ -1,2 +1,1 @@
-# team22
-SKYCC I팀
+# SKYCC I팀
